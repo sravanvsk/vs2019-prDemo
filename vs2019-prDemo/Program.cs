@@ -8,6 +8,8 @@ namespace vs2019_prDemo
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Apples");
+            Console.WriteLine("Oranges");
+            Console.WriteLine("Madhu singireddy");
         }
     }
 }
